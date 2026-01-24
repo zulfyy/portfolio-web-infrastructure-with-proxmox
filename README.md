@@ -58,7 +58,6 @@ Portfolio Project - Multi-tier Web Application with Load Balancing & Monitoring
 ## Skills Demonstrated
 - Container orchestration (LXC)
 - Load balancing & reverse proxy configuration
-- Database design & optimization
+- Database design
 - Monitoring & observability
 - Multi-tier architecture design
-- Network configuration & security
