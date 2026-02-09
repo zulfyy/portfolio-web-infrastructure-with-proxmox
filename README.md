@@ -59,5 +59,5 @@ Portfolio Project - Multi-tier Web Application with Load Balancing & Monitoring
 - Container orchestration (LXC)
 - Load balancing & reverse proxy configuration
 - Database design
-- Monitoring & observability
+- Monitoring
 - Multi-tier architecture design
