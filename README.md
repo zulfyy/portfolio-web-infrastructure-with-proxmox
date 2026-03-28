@@ -1,4 +1,7 @@
 # Production-Ready Web Infrastructure
+Edit (28/03/2026) I'm sorry, I didn't think to save the files, so they were deleted along with Virtual Box 😅
+So for this project, I can only show screenshots, sorry.
+
 Portfolio Project - Multi-tier Web Application with Load Balancing & Monitoring
 
 ## Architecture Overview
